@@ -1,0 +1,1 @@
+Sistema para la gestión de la admisión y atención de pacientes en la guardia médica del Hospital Saturnino e Unzue de la ciudad de Rojas, Buenos Aires.
